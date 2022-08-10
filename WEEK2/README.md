@@ -3,6 +3,8 @@
 
 문제집 : [기초4-1. 단순 반복문](https://codeup.kr/problemsetsol.php?psid=13)
 
+1071 ~ 1077 : 각자 풀기
+
 공통문제 
 1078	[짝수 합 구하기(설명)](https://codeup.kr/problem.php?id=1078)
 
