@@ -34,3 +34,14 @@ nums = input().split();
 for i in range(cnt):
     print(nums[i]);
 '''
+
+# 1073_20220815
+'''
+nums = input().split();
+
+for i in range(len(nums)):
+    if(nums[i] != '0'):
+        print(nums[i]);
+    else:
+        break;
+'''
