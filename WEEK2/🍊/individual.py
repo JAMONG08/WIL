@@ -1,3 +1,13 @@
+# 1087_20220814_개별문제
+num = int(input());
+sum = 0;
+for i in range(1, 100000000):
+    sum += i;
+    if(sum >= num):
+        break;
+print(sum);
+
+###############################################
 # 1071_20220811
 '''
 num = input()
@@ -18,7 +28,9 @@ while flag != '0':
 '''
 
 # 1072_20220814
+'''
 cnt = int(input());
 nums = input().split();
 for i in range(cnt):
     print(nums[i]);
+'''
