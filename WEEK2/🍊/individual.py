@@ -45,3 +45,19 @@ for i in range(len(nums)):
     else:
         break;
 '''
+
+# 1074_20220816
+'''
+num = int(input());
+
+for i in range(num, 1, -1):
+    print(i);
+'''
+
+# 1075_20220816
+'''
+num = int(input());
+
+for i in range(num, 0, -1):
+    print(i);
+'''
