@@ -34,3 +34,41 @@ nums = input().split();
 for i in range(cnt):
     print(nums[i]);
 '''
+
+# 1073_20220815
+'''
+nums = input().split();
+
+for i in range(len(nums)):
+    if(nums[i] != '0'):
+        print(nums[i]);
+    else:
+        break;
+'''
+
+# 1074_20220816
+'''
+num = int(input());
+
+for i in range(num, 1, -1):
+    print(i);
+'''
+
+# 1075_20220816
+'''
+num = int(input());
+
+for i in range(num, 0, -1):
+    print(i);
+'''
+
+# 1076_20220817
+'''
+c = ord(input());
+p = '';
+
+for i in range(97, c+1):
+    p += chr(i)+' ';
+print(p);
+'''
+
