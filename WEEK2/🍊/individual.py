@@ -61,3 +61,14 @@ num = int(input());
 for i in range(num, 0, -1):
     print(i);
 '''
+
+# 1076_20220817
+'''
+c = ord(input());
+p = '';
+
+for i in range(97, c+1):
+    p += chr(i)+' ';
+print(p);
+'''
+
