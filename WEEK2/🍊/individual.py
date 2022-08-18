@@ -72,3 +72,10 @@ for i in range(97, c+1):
 print(p);
 '''
 
+# 1077_20220818
+'''
+num = int(input());
+
+for i in range(0, num+1):
+   print(i);
+'''
