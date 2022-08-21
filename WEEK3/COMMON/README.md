@@ -1,11 +1,8 @@
-# 공통문제 
-### 10974 모든 순열 [문제 바로가기](https://www.acmicpc.net/problem/10974)
+# WEEK 3 
+### 공통문제 : 스택. [거꾸로 출력하기 3](https://codeup.kr/problem.php?id=1402)
 
-<br/>
-
-- 🍊 [문제 풀이 바로가기]
-- 🍇 [문제 풀이 바로가기]
-- 🥝 [문제 풀이 바로가기](https://github.com/JAMONG08/WIL/blob/main/WEEK1/COMMON/kiwi.md)
-- 🍉 [문제 풀이 바로가기]
-
-test
+### 개별문제
+- 🍊 3129 : [올바른 괄호 2](https://codeup.kr/problem.php?id=3129)
+- 🍇 3130 : [소들의 헤어스타일](https://codeup.kr/problem.php?id=3130)
+- 🥝 4624 : [괄호의 값](https://codeup.kr/problem.php?id=4624)
+- 🍉 3117 : [0은 빼!](https://codeup.kr/problem.php?id=3117)
