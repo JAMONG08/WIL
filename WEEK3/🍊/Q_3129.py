@@ -25,3 +25,24 @@ else:
     print('bad')
 
 
+# OTHER ''' START
+# https://m.blog.naver.com/luvwithcat/221878016515
+a = input()
+stack = []
+
+for i in a:
+    stack.append(i)
+    if len(stack) >= 2 and stack[-1] == ')' and stack[-2] == '(':
+        stack.pop()
+        stack.pop()
+
+if stack:
+    print('bad')
+else:
+    print('good')
+
+'''
+    +)
+    a = input(); for i in a: // range, len 안써도 됨
+    배열 음수 인덱스
+'''
