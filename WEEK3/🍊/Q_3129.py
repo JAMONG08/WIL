@@ -24,6 +24,17 @@ if(flag == True and len(check) == 0):
 else:
     print('bad')
 
+'''
+bracket : 괄호입력아서 만들어진 배열
+length : 괄호배열의 크기
+check : 괄호 체크용 스택 배열
+flag : 
+    1. 괄호배열가 2의 배수가 아니거나
+    2. 맨처음 괄호가 닫힌 괄호_)일 경우거나
+    3. 괄호 체크용 스택 배열의 크기가 0인데 닫힌 괄호_)일 경우
+    검사 중간에 빠져나오기 위한 신호기
+'''
+
 
 # OTHER ''' START
 # https://m.blog.naver.com/luvwithcat/221878016515
@@ -42,7 +53,7 @@ else:
     print('good')
 
 '''
-    +)
+    Plus+_)
     a = input(); for i in a: // range, len 안써도 됨
     배열 음수 인덱스
 '''
