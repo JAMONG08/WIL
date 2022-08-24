@@ -8,5 +8,5 @@ for i in range(k):
     else:
         stack.append(n)
  
-#print(stack)
+print(stack)
 print(sum(stack))

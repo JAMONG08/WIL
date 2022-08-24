@@ -3,7 +3,7 @@ arr = input().split()[:k]
 
 
 while(len(arr)):
-   print(arr.pop(),end=' ')
+       print(arr.pop(),end=' ')
    
 #print(' '.join(arr[::-1]))
-#print(' '.join(reversed(arr)))
+# print(' '.join(reversed(arr)))

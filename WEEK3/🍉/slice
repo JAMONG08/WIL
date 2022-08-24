@@ -1,6 +1,6 @@
 #reverse는 list만 지원 
 #n.reverse()
-#print(n)
+#print(' '.join(arr[::-1]))
 
 #슬라이싱
 #reversed 내장함수 -> reversed 객체 반환
