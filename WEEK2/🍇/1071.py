@@ -11,7 +11,7 @@ while(1):
   i = return_num()  # input 함수
 
   if(i > 0 or i < 0):
-    print(i, 10sep='\n')
+    print(i, 10sep='\n'):
     continue
   else:
     break
