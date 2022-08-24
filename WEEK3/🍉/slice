@@ -1,0 +1,19 @@
+#reverse는 list만 지원 
+#n.reverse()
+#print(n)
+
+#슬라이싱
+#reversed 내장함수 -> reversed 객체 반환
+#print(list(reversed(n)))
+
+
+#t = (1,2,3)
+#t.reverse() 에러 
+#reversed(t)
+#print(tuple(reversed(t))) #<reversed object at 0x101f5c940>
+
+
+#d = {'a':1,'b':2}
+#d.reverse() #에러 
+#reversed(d)
+#print(tuple(reversed(d))) #<reversed object at 0x101f5c940>
