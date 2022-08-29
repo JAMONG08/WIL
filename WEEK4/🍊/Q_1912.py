@@ -11,3 +11,9 @@ def factorial(num):
         print(sum)
 
 factorial(num)
+
+
+### OTHER
+import math
+a = int(input('팩토리얼을 구할 숫자를 입력하세요 : '))
+print(math.factorial(a))
