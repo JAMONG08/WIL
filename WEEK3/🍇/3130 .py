@@ -5,7 +5,7 @@
 
 num = int(input())  # N
 
-cow = list(num)
+cow = list(range(num))
 tmp = 0         # 비교 변수
 sum = 0         # 소들이 확인 수
 
