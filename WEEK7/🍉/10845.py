@@ -9,7 +9,7 @@
 # map(int,sys.stdin.readline().strip().split())
 # map(int,sys.stdin.readline().split())
 
-#deque 입력 append(), appendleft(), 출력 popleft(), pop()
+#deque stack queue 입력 append(), appendleft(), 출력 popleft(), pop()
 
 
 from collections import deque
