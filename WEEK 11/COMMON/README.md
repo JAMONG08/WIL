@@ -1,19 +1,19 @@
-# WEEK 10
+# WEEK 11
 문제집 : [자료구조](https://www.acmicpc.net/problemset?sort=ac_desc&algo=175)
 <br/><br/>
 공통문제 
-[10974번 - 모든 순열](https://www.acmicpc.net/problem/10974)
+[11724번 - 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 --
 <br/>
 
 🍊
-2309	[10972번 - 다음 순열](https://www.acmicpc.net/problem/10972)
+2309	[1260번 - DFS와 BFS](https://www.acmicpc.net/problem/1260)
 
 🍇
-10430	[16926번 - 배열 돌리기 1](https://www.acmicpc.net/problem/16926) 
+10430	[16931번 - 겉넓이 구하기](https://www.acmicpc.net/problem/16931) 
 
 🥝
-1107	[1932번 - 정수삼각형](https://www.acmicpc.net/problem/1932)
+1107	[11052번 - 카드 구매하기](https://www.acmicpc.net/problem/11052)
 
 🍉
-16926	[1759번 - 암호 만들기](https://www.acmicpc.net/problem/1759)
+16926	[2156번 - 포도주 시식](https://www.acmicpc.net/problem/2156)
