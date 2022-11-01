@@ -12,7 +12,7 @@ for _ in range(r):
         x, y = i, i
         temp = data[x][y]  
                       
-        # 안쪽까지 계속 고려해야하기 때문에 n-i랑 m-i까지로 범위설정
+        # 안쪽까지 계속 돌아야하기 때문에 n-i랑 m-i까지로 범위설정 -> 안쪽으로 들어가면 맨 바깥보다 작아야져 하니까
         for j in range(i + 1, n - i):  #왼쪽
             x = j
             prev = data[x][y]
