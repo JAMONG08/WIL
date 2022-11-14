@@ -62,22 +62,22 @@
 <br>
 ***
 ### * 시놀로지 이미지
-<img src="../Coalescing/synology.png" width="30%" height="10%" alt="Synology"></img>
-<img src="../Coalescing/synology_hard.jpg" width="30%" height="10%" alt="Synology"></img>
-<img src="../Coalescing/synology_frontBack.jpg" width="30%" height="10%" alt="Synology"></img>
-<img src="../Coalescing/synology_os.jpg" width="30%" height="10%" alt="Synology"></img>
-<img src="../Coalescing/synology_package.jpg" width="30%" height="10%" alt="Synology"></img>
-<img src="../Coalescing/synology_fileStation.png" width="30%" height="10%" alt="Synology"></img>
+<img src="./synology.png" width="30%" height="10%" alt="Synology"></img>
+<img src="./synology_hard.jpg" width="30%" height="10%" alt="Synology"></img>
+<img src="./synology_frontBack.jpg" width="30%" height="10%" alt="Synology"></img>
+<img src="./synology_os.jpg" width="30%" height="10%" alt="Synology"></img>
+<img src="./synology_package.jpg" width="30%" height="10%" alt="Synology"></img>
+<img src="./synology_fileStation.png" width="30%" height="10%" alt="Synology"></img>
 <br>
 <br>
 ***
 ### * RAID 이미지
-<img src="../Coalescing/RAID0.png" width="20%" height="10%" alt="RAID0"></img>
-<img src="../Coalescing/RAID1.png" width="20%" height="50%" alt="RAID1"></img>
+<img src="./RAID0.png" width="20%" height="10%" alt="RAID0"></img>
+<img src="./RAID1.png" width="20%" height="50%" alt="RAID1"></img>
 <br>
-<img src="../Coalescing/RAID4.png" width="30%" height="50%" alt="RAID4"></img>
-<img src="../Coalescing/RAID5.jpg" width="30%" height="50%" alt="RAID5"></img>
-<img src="../Coalescing/RAID6.png" width="40%" height="100%" alt="RAID6"></img>
+<img src="./RAID4.png" width="30%" height="50%" alt="RAID4"></img>
+<img src="./RAID5.jpg" width="30%" height="50%" alt="RAID5"></img>
+<img src="./RAID6.png" width="40%" height="100%" alt="RAID6"></img>
 <br>
 <br>
 ***
