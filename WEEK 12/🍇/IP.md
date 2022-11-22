@@ -67,7 +67,7 @@
 
  2.  아파치 conf  파일에 ip 추가 : **httpd.conf 또는 httpd-vhosts.conf  또는 httpd-ssl.conf (SSL 사용중일 때) 해당 conf 파일에 모두 추가**
 
-    **Allow from IP주소** 
+    Allow from IP주소
 
  3.  ip 추가 후 아파치 재시작 (**graceful**) : 아파치 설치된 위치에서 재시작
 
@@ -79,10 +79,10 @@
 7. 해당 대역대의 **모든 PC** 열어줄 경우에는 **IP 뒤에 0/24 추가** : 123.123.11.0/24 (11번대 대역 모두 사용)
 
 <hr>
-####인터넷 연결 구성도
-<img src="./internet_connected.png" width="30%" height="10%" alt="Synology"></img>
+#### 인터넷 연결 구성도
+<img src="./internet_connected.png" width="30%" height="10%" alt=""></img>
 
 <br>
 
-####IPv4 주소체계
-<img src="./IPv4.png" width="30%" height="10%" alt="Synology"></img>
+#### IPv4 주소체계
+<img src="./IPv4.png" width="30%" height="10%" alt=""></img>
