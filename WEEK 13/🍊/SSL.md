@@ -35,7 +35,7 @@
 >   1. 단일 도메인 : 단일 도메인 SSL 인증서는 단 하나의 도메인에 적용된다.<br>
 >   2. 와일드카드 : 단일 도메인 인증서처럼 단 하나의 도메인에 적용되지만, 도메인의 하위 도메인도 포함한다. 예를 들어, 와일드카드 인증서는 www.cloudflare.com, blog.cloudflare.com, developers.cloudflare.com을 포함할 수 있지만, 단일 도메인 인증서는 첫 번째 도메인만 포함할 수 있다.<br>
 >   3. 멀티 도메인 : 이름이 의미하는 것처럼 멀티 도메인 SSL 인증서는 관련되지 않은 다수의 도메인에 적용될 수 있다.<br>
-> <br>
+>
 > - 유효성 검사 수준<br>
 >   1. 도메인 유효성 검사 : 가장 덜 엄격하고 저렴한 수준의 유효성 검사이다. 도메인을 관리하고 있다는 것만 증명하면 될 때 사용한다.<br>
 >   2. 조직 유효성 검사 : 보다 실무적인 프로세스. CA가 담당자나 기업에 인증서를 직접 문의한다. 이 인증서는 사용자에게 더 많은 신뢰를 제공한다.<br>
@@ -44,10 +44,10 @@
 
 ***
 ### * 참고 이미지
-<img src="./HTTPS_SSL.png" width="30%" height="10%" alt="HTTPS_SSL"></img>
-<img src="./OSI7.png" width="30%" height="10%" alt="OSI7"></img>
-<img src="./tls-ssl-handshake.webp" width="30%" height="10%" alt="handShake"></img>
-<img src="./not_ssl.png" width="30%" height="10%" alt="not_ssl"></img>
+<img src="./HTTPS_SSL.png" width="50%" height="10%" alt="HTTPS_SSL"></img>
+<img src="./OSI7.png" width="50%" height="10%" alt="OSI7"></img>
+<img src="./tls-ssl-handshake.webp" width="50%" height="10%" alt="handShake"></img>
+<img src="./not_ssl.png" width="50%" height="10%" alt="not_ssl"></img>
 <br>
 <br>
 ***
