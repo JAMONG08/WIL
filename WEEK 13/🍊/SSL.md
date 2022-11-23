@@ -44,10 +44,10 @@
 
 ***
 ### * 참고 이미지
-<img src="./HTTPS_SSL.png" width="50%" height="10%" alt="HTTPS_SSL"></img>
-<img src="./OSI7.png" width="50%" height="10%" alt="OSI7"></img>
-<img src="./tls-ssl-handshake.webp" width="50%" height="10%" alt="handShake"></img>
-<img src="./not_ssl.png" width="50%" height="10%" alt="not_ssl"></img>
+<img src="./HTTPS_SSL.png" width="80%" height="10%" alt="HTTPS_SSL"></img>
+<img src="./OSI7.png" width="80%" height="10%" alt="OSI7"></img>
+<img src="./tls-ssl-handshake.webp" width="80%" height="10%" alt="handShake"></img>
+<img src="./not_ssl.png" width="80%" height="10%" alt="not_ssl"></img>
 <br>
 <br>
 ***
