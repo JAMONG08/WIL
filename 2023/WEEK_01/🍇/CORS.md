@@ -10,7 +10,7 @@
 
 간단히 말해 **내 서버와 다른 서버의 리소스를 가져오면서** 발생되는 브라우저 에러이다.
 
-![Origin](C:\Study\2023\WEEK_01\🍇\Origin.PNG)
+![Origin](https://github.com/JAMONG08/WIL/blob/mk/2023/WEEK_01/%F0%9F%8D%87/Origin.PNG)
 
 ```javascript
 <script>
@@ -25,7 +25,7 @@
 
 '동일한 출처에서만 리소스(이미지, 영상 등)을 공유할 수 있다'는 정책으로 다른 출처 서버의 리소스는 가져올 수 없다. 출처가 다른 서버의 리소스도 자유롭게 가져올 수 있게 되면 보안에 취약해지기 때문이다.
 
-![Same Origin Policy](C:\Study\2023\WEEK_01\🍇\SOP CORS.png)
+![Same Origin Policy](https://github.com/JAMONG08/WIL/blob/mk/2023/WEEK_01/%F0%9F%8D%87/SOP%20CORS.png)
 
 
 
@@ -41,7 +41,7 @@
 
 curl 이나 postman을 이용해 서버에 요청하면 문제 없이 응답이 오는데, 프론트 작업을 할 때만 CORS 에러가 발생하는 것도 브라우저가 미리 보고 개입하기 때문이다. 
 
-![CORS Error easy](C:\Study\2023\WEEK_01\🍇\CORS Error easy.png)
+![CORS Error easy](https://github.com/JAMONG08/WIL/blob/mk/2023/WEEK_01/%F0%9F%8D%87/CORS%20Error%20easy.png)
 
 <hr>
 
