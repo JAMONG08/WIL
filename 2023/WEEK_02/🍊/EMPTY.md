@@ -17,21 +17,21 @@
 > - 역기능으로는 사용자의 입장에서 자신의 웹 서핑 기록을 익명하기 위해 익명 웹 프록시를 사용하기도 함<br>
 
 ## 3. 프록시 서버 종류
-> - 서버의 위치에 따라 분류하면 크게 두 가지로 나눌 수 있다.<br><br>
+> - 서버의 위치에 따라 분류하면 크게 두 가지로 나눌 수 있다.<br>
 > ### Forward 프록시
 > <img src="./forward_proxy.webp" width="100%" height="100%" alt="forward_proxy"></img>
 > - 일반적으로 프록시, 프로시 서버 혹은 웹 프록시라고 불림<br>
 > - 클라이언트의 대신 프록시 서버가 목적 서버에 통신해주는 구성을 "포워드 프록시"라고 한다.<br>
 > - 클라이언트들(A)이 서버(C)에 요청(Request)을 보내면 포워드 프록시(B)가 해당 요청을 서버 대신 받아서 서버에게 전달(Forward) 해준다. 마찬가지로 서버의 응답(Response)을 포워드 프록시가 대신 받아 클라이언트에게 전달해준다.<br>
 > - 참고로 윈도우10의 경우 [Winodws 메뉴] > [설정] > [네트워크와 인터넷] > [프록시]에서 설정할 수 있다.<br>
-> - 사용 목적<br>
+> > - 사용 목적<br>
 > > 1. 캐시 저장(액세스 고속화)<br>
 > > 2. URL 필터링<br>
 
 > ### Reverse 프록시
 > <img src="./reverse_proxy.webp" width="100%" height="100%" alt="reverse_proxy"></img>
 > - 리버스 프록시는 웹 서버들 앞에 위치하고 리버스 프록시도 포워드 프록시와 마찬가지로 클라이언트의 요청을 받아 서버에게 전달하고, 서버의 응답을 받아 클라이언트에게 전달한다. <br>
-> - 사용 목적<br>
+> > - 사용 목적<br>
 > > 1. 부담 분산 : 로드 밸런스와 병용하면 더욱 효과적이다.<br>
 > > 2. 캐시의 저장<br>
 > > 3. 세큐리티 대책, 바이러스 대책<br>
@@ -43,11 +43,11 @@
 <br>
 ***
 #### 참고사이트<br>
-[참고 1](https://code-lab1.tistory.com/214) <BR>
-[참고 2](https://engineer-mole.tistory.com/288) <BR>
-[참고 3](https://brownbears.tistory.com/191) <BR>
-[참고 4](https://dany-it.tistory.com/107)<BR>
+[참고 1] (https://code-lab1.tistory.com/214) <BR>
+[참고 2] (https://engineer-mole.tistory.com/288) <BR>
+[참고 3] (https://brownbears.tistory.com/191) <BR>
+[참고 4] (https://dany-it.tistory.com/107)<BR>
 <BR>
 #### 기타 참고사이트<br>
-[WEB/WAS](https://gmlwjd9405.github.io/2018/10/27/webserver-vs-was.html)<BR>
-[면접준비](https://gyoogle.dev/blog/guide/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84.html)<BR>
+[WEB/WAS] (https://gmlwjd9405.github.io/2018/10/27/webserver-vs-was.html)<BR>
+[면접준비] (https://gyoogle.dev/blog/guide/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84.html)<BR>
