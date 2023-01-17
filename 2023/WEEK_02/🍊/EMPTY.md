@@ -41,13 +41,12 @@
 <br>
 <br>
 
-#### 참고사이트<br>
+#### 참고사이트
 [참고 1](https://code-lab1.tistory.com/214) <BR>
-[참고 2]https://engineer-mole.tistory.com/288) <BR>
+[참고 2](https://engineer-mole.tistory.com/288) <BR>
 [참고 3](https://brownbears.tistory.com/191) <BR>
 [참고 4](https://dany-it.tistory.com/107)<BR>
 <BR>
-  
-#### 기타 참고사이트<br>
+#### 기타 참고사이트
 [WEB/WAS](https://gmlwjd9405.github.io/2018/10/27/webserver-vs-was.html)<BR>
 [면접준비](https://gyoogle.dev/blog/guide/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84.html)<BR>
