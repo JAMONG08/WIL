@@ -1,6 +1,6 @@
 ### 3-2. 명령어의 구조
 
-![command structure]()
+![command structure](https://github.com/JAMONG08/WIL/blob/mk/2023/WEEK_03/%F0%9F%8D%87/command%20structure.png)
 
 - 연산 코드
   - 데이터 전송
@@ -25,7 +25,7 @@
   - **레지스터 간접 주소 지정** : 연산에 사용할 데이터는 메모리에 저장하고 오퍼랜드 필드에는 유효 <u>주소를 저장함</u>
     - 장점 : 메모리에 한 번 접근해서 다른 방법들보다 <u>빠름</u>
 
-  ![Direct Mode]()
+  ![Direct Mode](https://github.com/JAMONG08/WIL/blob/mk/2023/WEEK_03/%F0%9F%8D%87/Direct%20Mode.PNG)
 
 
 - 예제
