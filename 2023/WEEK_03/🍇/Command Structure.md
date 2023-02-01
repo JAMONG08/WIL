@@ -1,6 +1,6 @@
 ### 3-2. 명령어의 구조
 
-![command structure](https://github.com/JAMONG08/WIL/blob/mk/2023/WEEK_03/%F0%9F%8D%87/command%20structure.png)
+명령어의 구조 : **연산 코드 - 주소 지정방식 - 오퍼랜드(데이터, 주소)**
 
 - 연산 코드
   - 데이터 전송
