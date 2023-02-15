@@ -5,8 +5,8 @@ ISA를 기반으로 설계된 CISC, RISC
 
 ## 명령어 집합
 CPU가 이해할 수 있는 명령어들의 모음을 **명렁어 집합** 또는 **명령어 집합 구조(ISA)** 이라 부른다.   
-인텔 -> x86-64   
-애플 -> ARM
+CISC -> 인텔 -> x86-64   
+RISC -> 애플 -> ARM
 
 ## CISC
 **Complex** Instruction Set Computer   
